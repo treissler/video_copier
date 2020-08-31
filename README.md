@@ -1,4 +1,6 @@
 # video_copier
+## description
+Downloads youtube embedded videos from given html page and uploads it to dailymotion.com video hosting.
 
 ## configuration:
 ```src/config.php```
